@@ -1591,24 +1591,6 @@ html[dir="rtl"] .button svg[data-lucide="arrow-up-right"] {
     z-index: 3;
   }
 
-  .site-header::after {
-    content: "☰";
-    display: grid;
-    place-items: center;
-    position: absolute;
-    top: 14px;
-    right: 16px;
-    width: 46px;
-    height: 46px;
-    color: var(--white);
-    background: rgba(255, 255, 255, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    border-radius: 4px;
-    font-size: 24px;
-    line-height: 1;
-    pointer-events: none;
-  }
-
   .site-nav,
   .header-cta {
     display: none;
