@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SCHNELL Products | Lubricants, Additives, Coolants & Fluids</title>
+    <meta name="description" content="Browse SCHNELL product families, product photos, lubricants, additives, coolants, brake fluids, marine oils, motorcycle oils and OEM solutions.">
+    <link rel="icon" href="assets/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700;800&family=Oxanium:wght@400;500;600;700;800&family=Sarabun:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header" id="top">
+      <a class="brand" href="index.html" aria-label="SCHNELL home">
+        <img src="assets/schnell-logo-white.png" alt="SCHNELL">
+      </a>
+      <button class="nav-toggle" type="button" aria-label="Open navigation" data-i18n-aria="nav.toggle" aria-expanded="false">
+        <i data-lucide="menu"></i>
+      </button>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="about.html" data-i18n="nav.about">About Schnell</a>
+        <a href="products.html" data-i18n="nav.products">Products</a>
+        <a href="oil-finder.html" data-i18n="nav.oilFinder">Oil Finder</a>
+        <a href="markets.html" data-i18n="nav.markets">Markets</a>
+        <a href="agents.html" data-i18n="nav.agents">Agents</a>
+        <a href="contact.html" data-i18n="nav.contact">Contact</a>
+      </nav>
+      <div class="language-switcher" aria-label="Language selector" data-i18n-aria="language.selector">
+        <button type="button" class="language-button active" data-lang="en">EN</button>
+        <button type="button" class="language-button" data-lang="ar">AR</button>
+        <button type="button" class="language-button" data-lang="ku">کوردی</button>
+      </div>
+      <a class="header-cta" href="contact.html"><i data-lucide="phone"></i><span data-i18n="nav.support">Partner Support</span></a>
+    </header>
+
+    <main class="page-main">
+      <section class="section dark-section" id="products">
+        <div class="section-head reveal">
+          <p class="eyebrow" data-i18n="products.eyebrow">SCHNELL product range</p>
+          <h2 data-i18n="products.title">One catalog for automotive, commercial and industrial lubrication needs.</h2>
+        </div>
+        <div class="product-controls reveal" role="tablist" aria-label="Product filters" data-i18n-aria="products.filters">
+          <button class="filter-button active" type="button" data-filter="all" data-i18n="filters.all">All</button>
+          <button class="filter-button" type="button" data-filter="automotive" data-i18n="filters.automotive">Automotive</button>
+          <button class="filter-button" type="button" data-filter="commercial" data-i18n="filters.commercial">Commercial</button>
+          <button class="filter-button" type="button" data-filter="specialty" data-i18n="filters.specialty">Specialty</button>
+        </div>
+        <div class="product-grid" aria-live="polite">
+          <article class="product-card reveal" data-category="automotive">
+            <span>01</span>
+            <h3 data-i18n="product.1.title">Performance Additives</h3>
+            <p data-i18n="product.1.copy">Fuel, engine and service additives for workshops and performance-minded drivers.</p>
+          </article>
+          <article class="product-card reveal" data-category="automotive">
+            <span>02</span>
+            <h3 data-i18n="product.2.title">Passenger Car Lubricants</h3>
+            <p data-i18n="product.2.copy">Engine oil solutions for modern passenger vehicles and everyday service programs.</p>
+          </article>
+          <article class="product-card reveal" data-category="automotive">
+            <span>03</span>
+            <h3 data-i18n="product.3.title">Transmission & Gear Oils</h3>
+            <p data-i18n="product.3.copy">Lubrication for gearboxes, transmissions and driveline protection.</p>
+          </article>
+          <article class="product-card reveal" data-category="automotive">
+            <span>04</span>
+            <h3 data-i18n="product.4.title">Performance Coolants</h3>
+            <p data-i18n="product.4.copy">Cooling products for heat management, corrosion resistance and system reliability.</p>
+          </article>
+          <article class="product-card reveal" data-category="automotive">
+            <span>05</span>
+            <h3 data-i18n="product.5.title">Performance Brake Fluids</h3>
+            <p data-i18n="product.5.copy">Brake fluid range for confident braking response and service consistency.</p>
+          </article>
+          <article class="product-card reveal" data-category="automotive">
+            <span>06</span>
+            <h3 data-i18n="product.6.title">Car Care Kit Products</h3>
+            <p data-i18n="product.6.copy">Care and maintenance products for retail, garages and detailing-oriented sellers.</p>
+          </article>
+          <article class="product-card reveal" data-category="commercial">
+            <span>07</span>
+            <h3 data-i18n="product.7.title">Commercial Lubricants</h3>
+            <p data-i18n="product.7.copy">Lubricants for trucks, heavy service environments and fleet maintenance.</p>
+          </article>
+          <article class="product-card reveal" data-category="commercial">
+            <span>08</span>
+            <h3 data-i18n="product.8.title">Industry Oils</h3>
+            <p data-i18n="product.8.copy">Industrial oil options for machinery, equipment and production settings.</p>
+          </article>
+          <article class="product-card reveal" data-category="specialty">
+            <span>09</span>
+            <h3 data-i18n="product.9.title">Marine Lubricants</h3>
+            <p data-i18n="product.9.copy">Marine-focused lubrication for demanding operating conditions near water.</p>
+          </article>
+          <article class="product-card reveal" data-category="specialty">
+            <span>10</span>
+            <h3 data-i18n="product.10.title">Motorcycle Oils</h3>
+            <p data-i18n="product.10.copy">Motorcycle lubricants and additives for two-wheel performance and reliability.</p>
+          </article>
+          <article class="product-card reveal" data-category="specialty">
+            <span>11</span>
+            <h3 data-i18n="product.11.title">Racing Lubricants</h3>
+            <p data-i18n="product.11.copy">High-load lubricants aligned with SCHNELL’s fast, performance-led brand identity.</p>
+          </article>
+          <article class="product-card reveal" data-category="commercial">
+            <span>12</span>
+            <h3 data-i18n="product.12.title">OEM Solutions</h3>
+            <p data-i18n="product.12.copy">Private-label and original-equipment programs for regional partners and suppliers.</p>
+          </article>
+        </div>
+        <div class="catalog-explorer reveal">
+          <div class="catalog-intro">
+            <p class="eyebrow" data-i18n="catalog.eyebrow">Detailed product catalog</p>
+            <h3 data-i18n="catalog.title">Browse the SCHNELL range product by product.</h3>
+            <p data-i18n="catalog.copy">Use the segment filters, then open each family to review available product names before confirming availability for Iraq.</p>
+          </div>
+          <div class="catalog-filter-row" aria-label="Catalog filters" data-i18n-aria="catalog.filters">
+            <button class="catalog-filter active" type="button" data-catalog-filter="all" data-i18n="catalog.filter.all">All lines</button>
+            <button class="catalog-filter" type="button" data-catalog-filter="lubricants" data-i18n="catalog.filter.lubricants">Lubricants</button>
+            <button class="catalog-filter" type="button" data-catalog-filter="additives" data-i18n="catalog.filter.additives">Additives</button>
+            <button class="catalog-filter" type="button" data-catalog-filter="fluids" data-i18n="catalog.filter.fluids">Fluids</button>
+            <button class="catalog-filter" type="button" data-catalog-filter="specialty" data-i18n="catalog.filter.specialty">Specialty</button>
+            <button class="catalog-filter" type="button" data-catalog-filter="oem" data-i18n="catalog.filter.oem">OEM</button>
+          </div>
+          <div class="catalog-layout">
+            <aside class="catalog-family-panel" aria-label="Product families" data-i18n-aria="catalog.families">
+              <div id="catalog-family-list" class="catalog-family-list"></div>
+            </aside>
+            <div class="catalog-detail-panel">
+              <div class="catalog-detail-head">
+                <span id="catalog-count">0</span>
+                <h3 id="catalog-title">Passenger Car Lubricants</h3>
+                <p id="catalog-copy"></p>
+              </div>
+              <div id="catalog-products" class="catalog-products" aria-label="Products" data-i18n-aria="catalog.products"></div>
+              <p class="catalog-source" data-i18n="catalog.source">Based on SCHNELL public product pages. Confirm packaging, specifications, TDS and SDS before selling.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <img src="assets/schnell-logo-green.png" alt="SCHNELL">
+        <p data-i18n="footer.copy">High-performance lubricants, additives and car care products with German manufacturing identity and global distribution reach.</p>
+      </div>
+      <nav aria-label="Footer product links">
+        <a href="products.html" data-i18n="footer.link1">Air-Con Treatment</a>
+        <a href="products.html" data-i18n="footer.link2">Car Care Kit</a>
+        <a href="products.html" data-i18n="footer.link3">Commercial Lubricants</a>
+        <a href="products.html" data-i18n="footer.link4">Marine Lubricants</a>
+        <a href="products.html" data-i18n="footer.link5">OEM Solutions</a>
+      </nav>
+      <div class="footer-social">
+        <a href="https://www.facebook.com/schnell.oil.iq" target="_blank" rel="noopener noreferrer" aria-label="Facebook page" data-i18n-aria="social.facebook.aria"><i data-lucide="facebook"></i><span data-i18n="social.facebook">Facebook</span></a>
+        <a href="https://www.instagram.com/schnell.oil.iq" target="_blank" rel="noopener noreferrer" aria-label="Instagram page" data-i18n-aria="social.instagram.aria"><i data-lucide="instagram"></i><span data-i18n="social.instagram">Instagram</span></a>
+      </div>
+      <small data-i18n="footer.rights">© 2026 SCHNELL Lubricants. Partner-ready concept site.</small>
+    </footer>
+
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

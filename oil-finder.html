@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SCHNELL Oil Finder | Vehicle Oil Recommendation Tool</title>
+    <meta name="description" content="Select car brand, model, year and trim to see a sample SCHNELL oil recommendation.">
+    <link rel="icon" href="assets/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700;800&family=Oxanium:wght@400;500;600;700;800&family=Sarabun:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header" id="top">
+      <a class="brand" href="index.html" aria-label="SCHNELL home">
+        <img src="assets/schnell-logo-white.png" alt="SCHNELL">
+      </a>
+      <button class="nav-toggle" type="button" aria-label="Open navigation" data-i18n-aria="nav.toggle" aria-expanded="false">
+        <i data-lucide="menu"></i>
+      </button>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="about.html" data-i18n="nav.about">About Schnell</a>
+        <a href="products.html" data-i18n="nav.products">Products</a>
+        <a href="oil-finder.html" data-i18n="nav.oilFinder">Oil Finder</a>
+        <a href="markets.html" data-i18n="nav.markets">Markets</a>
+        <a href="agents.html" data-i18n="nav.agents">Agents</a>
+        <a href="contact.html" data-i18n="nav.contact">Contact</a>
+      </nav>
+      <div class="language-switcher" aria-label="Language selector" data-i18n-aria="language.selector">
+        <button type="button" class="language-button active" data-lang="en">EN</button>
+        <button type="button" class="language-button" data-lang="ar">AR</button>
+        <button type="button" class="language-button" data-lang="ku">کوردی</button>
+      </div>
+      <a class="header-cta" href="contact.html"><i data-lucide="phone"></i><span data-i18n="nav.support">Partner Support</span></a>
+    </header>
+
+    <main class="page-main">
+      <section class="section oil-finder-section" id="oil-finder">
+        <div class="section-head reveal">
+          <p class="eyebrow" data-i18n="oil.eyebrow">Oil finder</p>
+          <h2 data-i18n="oil.title">Select your vehicle to find a suitable SCHNELL oil.</h2>
+          <p data-i18n="oil.copy">Choose the vehicle brand, model, year and trim. The current recommendations are sample data and must be replaced with verified application data before production use.</p>
+        </div>
+        <div class="oil-finder-panel reveal">
+          <form class="oil-finder-form">
+            <label>
+              <span data-i18n="oil.brand">Car brand</span>
+              <select id="oil-brand" name="brand"></select>
+            </label>
+            <label>
+              <span data-i18n="oil.model">Model</span>
+              <select id="oil-model" name="model" disabled></select>
+            </label>
+            <label>
+              <span data-i18n="oil.year">Year</span>
+              <select id="oil-year" name="year" disabled></select>
+            </label>
+            <label>
+              <span data-i18n="oil.trim">Trim / engine</span>
+              <select id="oil-trim" name="trim" disabled></select>
+            </label>
+            <button class="button primary" id="oil-find-button" type="button" disabled><span data-i18n="oil.button">Show recommendation</span><i data-lucide="search"></i></button>
+          </form>
+          <aside class="oil-result" id="oil-result" aria-live="polite">
+            <span data-i18n="oil.result.label">Recommendation</span>
+            <h3 data-i18n="oil.empty.title">Select a full vehicle profile.</h3>
+            <p data-i18n="oil.empty.copy">The suggested oil type will appear here after you choose brand, model, year and trim.</p>
+          </aside>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <img src="assets/schnell-logo-green.png" alt="SCHNELL">
+        <p data-i18n="footer.copy">High-performance lubricants, additives and car care products with German manufacturing identity and global distribution reach.</p>
+      </div>
+      <nav aria-label="Footer product links">
+        <a href="products.html" data-i18n="footer.link1">Air-Con Treatment</a>
+        <a href="products.html" data-i18n="footer.link2">Car Care Kit</a>
+        <a href="products.html" data-i18n="footer.link3">Commercial Lubricants</a>
+        <a href="products.html" data-i18n="footer.link4">Marine Lubricants</a>
+        <a href="products.html" data-i18n="footer.link5">OEM Solutions</a>
+      </nav>
+      <div class="footer-social">
+        <a href="https://www.facebook.com/schnell.oil.iq" target="_blank" rel="noopener noreferrer" aria-label="Facebook page" data-i18n-aria="social.facebook.aria"><i data-lucide="facebook"></i><span data-i18n="social.facebook">Facebook</span></a>
+        <a href="https://www.instagram.com/schnell.oil.iq" target="_blank" rel="noopener noreferrer" aria-label="Instagram page" data-i18n-aria="social.instagram.aria"><i data-lucide="instagram"></i><span data-i18n="social.instagram">Instagram</span></a>
+      </div>
+      <small data-i18n="footer.rights">© 2026 SCHNELL Lubricants. Partner-ready concept site.</small>
+    </footer>
+
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

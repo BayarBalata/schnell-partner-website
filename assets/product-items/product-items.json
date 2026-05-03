@@ -1,0 +1,662 @@
+{
+  "air-con-treatment": [
+    {
+      "name": "Room Disinfection",
+      "image": "assets/product-items/air-con-treatment-room-disinfection.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Room-Disinfec.png"
+    },
+    {
+      "name": "Schnell AC Fresh",
+      "image": "assets/product-items/air-con-treatment-schnell-ac-fresh.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/AC-Fresh.png"
+    }
+  ],
+  "car-care-kit": [
+    {
+      "name": "Multi Purpose Spray",
+      "image": "assets/product-items/car-care-kit-multi-purpose-spray.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2021/11/Multi-Purpose-Spray-650x650.png"
+    },
+    {
+      "name": "Battery Terminal Protector",
+      "image": "assets/product-items/car-care-kit-battery-terminal-protector.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Battery-Terminal-Protector-650x650.png"
+    },
+    {
+      "name": "Universal Cleaner",
+      "image": "assets/product-items/car-care-kit-universal-cleaner.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Universal-Cleaner-650x650.png"
+    },
+    {
+      "name": "Adhering Lubricant",
+      "image": "assets/product-items/car-care-kit-adhering-lubricant.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Adhering-Lubricant-650x650.png"
+    },
+    {
+      "name": "Manifold Cleaner",
+      "image": "assets/product-items/car-care-kit-manifold-cleaner.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Manifold-Cleaner-650x650.png"
+    },
+    {
+      "name": "Body Flex",
+      "image": "assets/product-items/car-care-kit-body-flex.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Body-Flex-650x650.png"
+    },
+    {
+      "name": "Gear & Differential Treatment",
+      "image": "assets/product-items/car-care-kit-gear-and-differential-treatment.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Gear-Differential-Treatment-650x650.png"
+    },
+    {
+      "name": "Universal Foam Cleaner",
+      "image": "assets/product-items/car-care-kit-universal-foam-cleaner.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Universal-Foam-Cleaner-650x650.png"
+    },
+    {
+      "name": "Silicon Spray",
+      "image": "assets/product-items/car-care-kit-silicon-spray.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Silicon-Spray-650x650.png"
+    },
+    {
+      "name": "Windshield Washer",
+      "image": "assets/product-items/car-care-kit-windshield-washer.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Windshield-Washer-650x650.png"
+    }
+  ],
+  "motor-cycle-additives": [
+    {
+      "name": "Motor Treatment",
+      "image": "assets/product-items/motor-cycle-additives-motor-treatment.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Motor-Treatment.png"
+    },
+    {
+      "name": "Injektor Fuel Treatment",
+      "image": "assets/product-items/motor-cycle-additives-injektor-fuel-treatment.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Injektor-Fuel-Treatment.png"
+    },
+    {
+      "name": "Motor Flush",
+      "image": "assets/product-items/motor-cycle-additives-motor-flush.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Motor-Flush.png"
+    }
+  ],
+  "performance-additives": [
+    {
+      "name": "Racing Octane Booster",
+      "image": "assets/product-items/performance-additives-racing-octane-booster.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Octane-Booster.png"
+    },
+    {
+      "name": "Engine Decarbonizers",
+      "image": "assets/product-items/performance-additives-engine-decarbonizers.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Engine-Decarbonizers.png"
+    },
+    {
+      "name": "Automatic Transmission Flush",
+      "image": "assets/product-items/performance-additives-automatic-transmission-flush.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/ATF-Additives.png"
+    },
+    {
+      "name": "Speed Additives",
+      "image": "assets/product-items/performance-additives-speed-additives.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Speed-Additives.png"
+    },
+    {
+      "name": "CVT Additive",
+      "image": "assets/product-items/performance-additives-cvt-additive.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/CVT-Addi.png"
+    }
+  ],
+  "commercial-lubricants": [
+    {
+      "name": "Turbo HD SAE 60",
+      "image": "assets/product-items/commercial-lubricants-turbo-hd-sae-60.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    },
+    {
+      "name": "Turbo HD SAE 50",
+      "image": "assets/product-items/commercial-lubricants-turbo-hd-sae-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    },
+    {
+      "name": "Turbo HD SAE 40",
+      "image": "assets/product-items/commercial-lubricants-turbo-hd-sae-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    },
+    {
+      "name": "Turbo HD SAE 30",
+      "image": "assets/product-items/commercial-lubricants-turbo-hd-sae-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    },
+    {
+      "name": "Eco Boost SAE 20W-50",
+      "image": "assets/product-items/commercial-lubricants-eco-boost-sae-20w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    },
+    {
+      "name": "Truck Optima SAE 20W-50",
+      "image": "assets/product-items/commercial-lubricants-truck-optima-sae-20w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    },
+    {
+      "name": "Turbo Fleet SAE 15W-40",
+      "image": "assets/product-items/commercial-lubricants-turbo-fleet-sae-15w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    },
+    {
+      "name": "Ultimate II SAE 15W-40",
+      "image": "assets/product-items/commercial-lubricants-ultimate-ii-sae-15w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    },
+    {
+      "name": "Multilite LA SAE 15W-40",
+      "image": "assets/product-items/commercial-lubricants-multilite-la-sae-15w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel-3Nos.png"
+    }
+  ],
+  "racing-lubricants": [
+    {
+      "name": "NA Racing",
+      "image": "assets/product-items/racing-lubricants-na-racing.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/NA-Racing.png"
+    },
+    {
+      "name": "Turbo Racing",
+      "image": "assets/product-items/racing-lubricants-turbo-racing.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Turbo-Racing.png"
+    },
+    {
+      "name": "Racing SAE 1 0W-60",
+      "image": "assets/product-items/racing-lubricants-racing-sae-1-0w-60.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Racing-SAE-1-0W-60.png"
+    }
+  ],
+  "marine-lubricants": [
+    {
+      "name": "Sea Master SAE 20W-50",
+      "image": "assets/product-items/marine-lubricants-sea-master-sae-20w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Sea-Master-SAE-20W-50.png"
+    },
+    {
+      "name": "Sea Force SAE 15W-50",
+      "image": "assets/product-items/marine-lubricants-sea-force-sae-15w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Sea-Force-SAE-15W-50.png"
+    },
+    {
+      "name": "Sea Marlin SAE 10W-30",
+      "image": "assets/product-items/marine-lubricants-sea-marlin-sae-10w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Sea-Marlin-SAE-10W-30.png"
+    },
+    {
+      "name": "Sea Optima SAE 15W-40",
+      "image": "assets/product-items/marine-lubricants-sea-optima-sae-15w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Sea-Optima-SAE-15W-40.png"
+    },
+    {
+      "name": "Eco Marine SAE 20W-40",
+      "image": "assets/product-items/marine-lubricants-eco-marine-sae-20w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Eco-Marine-SAE-20W-40.png"
+    },
+    {
+      "name": "Watercraft 2-T",
+      "image": "assets/product-items/marine-lubricants-watercraft-2-t.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Watercraft-2-T.png"
+    },
+    {
+      "name": "Marine Gear Oil",
+      "image": "assets/product-items/marine-lubricants-marine-gear-oil.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Marine-Gear-Oil.png"
+    }
+  ],
+  "passenger-car-lubricants": [
+    {
+      "name": "Synthotec SAE OW-20",
+      "image": "assets/product-items/passenger-car-lubricants-synthotec-sae-ow-20.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Synthotec-SAE-OW-20.png"
+    },
+    {
+      "name": "Synthosis SAE OW-20",
+      "image": "assets/product-items/passenger-car-lubricants-synthosis-sae-ow-20.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Synthosis-SAE-OW-20.png"
+    },
+    {
+      "name": "Synthoplus SAE OW-20",
+      "image": "assets/product-items/passenger-car-lubricants-synthoplus-sae-ow-20.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Synthoplus-SAE-OW-20.png"
+    },
+    {
+      "name": "Synthotec LV II SAE OW-30",
+      "image": "assets/product-items/passenger-car-lubricants-synthotec-lv-ii-sae-ow-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Synthotec-LV-II-SAE-OW-30.png"
+    },
+    {
+      "name": "Triton C2 SAE 0W-30",
+      "image": "assets/product-items/passenger-car-lubricants-triton-c2-sae-0w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Triton-C2-SAE-0W-30.png"
+    },
+    {
+      "name": "Triton C3 OW-40",
+      "image": "assets/product-items/passenger-car-lubricants-triton-c3-ow-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Triton-C3-OW-40.png"
+    },
+    {
+      "name": "ULTIMATE SAE OW-30",
+      "image": "assets/product-items/passenger-car-lubricants-ultimate-sae-ow-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Triton-C3-OW-40-1.png"
+    },
+    {
+      "name": "ULTIMATE II SAE OW-40",
+      "image": "assets/product-items/passenger-car-lubricants-ultimate-ii-sae-ow-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/ULTIMATE-SAE-OW-30.png"
+    },
+    {
+      "name": "Synth SAE 5W-20",
+      "image": "assets/product-items/passenger-car-lubricants-synth-sae-5w-20.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/ULTIMATE-II-SAE-OW-40.png"
+    },
+    {
+      "name": "Synth SAE 5W-20",
+      "image": "assets/product-items/passenger-car-lubricants-synth-sae-5w-20.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Synth-SAE-5W-20.png"
+    },
+    {
+      "name": "Synthlight SAE 5W-20",
+      "image": "assets/product-items/passenger-car-lubricants-synthlight-sae-5w-20.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Synthlight-SAE-5W-20.png"
+    },
+    {
+      "name": "Ultimate II SAE 5W-30",
+      "image": "assets/product-items/passenger-car-lubricants-ultimate-ii-sae-5w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Ultimate-II-SAE-5W-30.png"
+    },
+    {
+      "name": "DPF SAE 5W-30",
+      "image": "assets/product-items/passenger-car-lubricants-dpf-sae-5w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/DPF-SAE-5W-30.png"
+    },
+    {
+      "name": "MAX SAE 5W-30",
+      "image": "assets/product-items/passenger-car-lubricants-max-sae-5w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/MAX-SAE-5W-30.png"
+    },
+    {
+      "name": "DLS SAE 5W-30",
+      "image": "assets/product-items/passenger-car-lubricants-dls-sae-5w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/DLS-SAE-5W-30.png"
+    },
+    {
+      "name": "Triton C1 SAE 5W-30",
+      "image": "assets/product-items/passenger-car-lubricants-triton-c1-sae-5w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Triton-C1-SAE-5W-30.png"
+    },
+    {
+      "name": "Triton C2 SAE 5W-30",
+      "image": "assets/product-items/passenger-car-lubricants-triton-c2-sae-5w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Triton-C2-SAE-5W-30.png"
+    },
+    {
+      "name": "Triton C4 SAE 5W-30",
+      "image": "assets/product-items/passenger-car-lubricants-triton-c4-sae-5w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Triton-C4-SAE-5W-30.png"
+    },
+    {
+      "name": "Eco Tech FO SAE 5W-30",
+      "image": "assets/product-items/passenger-car-lubricants-eco-tech-fo-sae-5w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Eco-Tech-FO-SAE-5W-30.png"
+    },
+    {
+      "name": "Ultimate II SAE 5W-40",
+      "image": "assets/product-items/passenger-car-lubricants-ultimate-ii-sae-5w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Ultimate-II-SAE-5W-40.png"
+    },
+    {
+      "name": "DPF II SAE 5W-40",
+      "image": "assets/product-items/passenger-car-lubricants-dpf-ii-sae-5w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/DPF-II-SAE-5W-40.png"
+    },
+    {
+      "name": "Evotec SAE 5W-40 D",
+      "image": "assets/product-items/passenger-car-lubricants-evotec-sae-5w-40-d.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Evotec-SAE-5W-40-D.png"
+    },
+    {
+      "name": "HC Plus SAE 5W-40 HD",
+      "image": "assets/product-items/passenger-car-lubricants-hc-plus-sae-5w-40-hd.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/HC-Plus-SAE-5W-40-HD.png"
+    },
+    {
+      "name": "Ultimate II SAE 5W-50",
+      "image": "assets/product-items/passenger-car-lubricants-ultimate-ii-sae-5w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Ultimate-II-SAE-5W-50.png"
+    },
+    {
+      "name": "Ubergreen SAE 5W-50",
+      "image": "assets/product-items/passenger-car-lubricants-ubergreen-sae-5w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Ubergreen-SAE-5W-50.png"
+    },
+    {
+      "name": "Syntholube Ultimate SAE 10W-60",
+      "image": "assets/product-items/passenger-car-lubricants-syntholube-ultimate-sae-10w-60.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Syntholube-Ultimate-SAE-10W-60.png"
+    },
+    {
+      "name": "Synthor SAE 10W-30",
+      "image": "assets/product-items/passenger-car-lubricants-synthor-sae-10w-30.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Synthor-SAE-10W-30.png"
+    },
+    {
+      "name": "Ultimate LL SAE 10W-40",
+      "image": "assets/product-items/passenger-car-lubricants-ultimate-ll-sae-10w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Ultimate-LL-SAE-10W-40.png"
+    },
+    {
+      "name": "Ultimate TS SAE 10W-40",
+      "image": "assets/product-items/passenger-car-lubricants-ultimate-ts-sae-10w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Ultimate-TS-SAE-10W-40.png"
+    },
+    {
+      "name": "Ultra HD 15W40",
+      "image": "assets/product-items/passenger-car-lubricants-ultra-hd-15w40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Ultra-HD-SAE-15W-40.png"
+    },
+    {
+      "name": "SuperTurbo SAE 15W-50",
+      "image": "assets/product-items/passenger-car-lubricants-superturbo-sae-15w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/SuperTurbo-SAE-15W-50.png"
+    },
+    {
+      "name": "Syntholube Performanz SAE 15W-50",
+      "image": "assets/product-items/passenger-car-lubricants-syntholube-performanz-sae-15w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Syntholube-PERFORMANZ-SAE-15W-50.png"
+    },
+    {
+      "name": "Super Turbo SAE 15W-40",
+      "image": "assets/product-items/passenger-car-lubricants-super-turbo-sae-15w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Superturbo-SAE-15W-40.png"
+    },
+    {
+      "name": "SuperTurbo SAE 20W-50",
+      "image": "assets/product-items/passenger-car-lubricants-superturbo-sae-20w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Superturbo-SAE-20W-50.png"
+    },
+    {
+      "name": "Hybrid SAE OW 16",
+      "image": "assets/product-items/passenger-car-lubricants-hybrid-sae-ow-16.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/Hybrid-SAE-OW-16-2.png"
+    }
+  ],
+  "motor-cycle-lubricants": [
+    {
+      "name": "400 Series SAE 10W-40",
+      "image": "assets/product-items/motor-cycle-lubricants-400-series-sae-10w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/400-Series-SAE-10W-40.png"
+    },
+    {
+      "name": "1000 Series SAE 15W-50",
+      "image": "assets/product-items/motor-cycle-lubricants-1000-series-sae-15w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/1000-Series-SAE-15W-50.png"
+    },
+    {
+      "name": "Syntho Ultimate Xtreme SAE 10W-60",
+      "image": "assets/product-items/motor-cycle-lubricants-syntho-ultimate-xtreme-sae-10w-60.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Syntho-Ultimate-Xtreme-SAE-10W-60.png"
+    }
+  ],
+  "industry-oils": [
+    {
+      "name": "HLVP 68",
+      "image": "assets/product-items/industry-oils-hlvp-68.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLVP 46",
+      "image": "assets/product-items/industry-oils-hlvp-46.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLVP 32",
+      "image": "assets/product-items/industry-oils-hlvp-32.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLVP 22",
+      "image": "assets/product-items/industry-oils-hlvp-22.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLP 100",
+      "image": "assets/product-items/industry-oils-hlp-100.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLP 68",
+      "image": "assets/product-items/industry-oils-hlp-68.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLP 46",
+      "image": "assets/product-items/industry-oils-hlp-46.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLP 32",
+      "image": "assets/product-items/industry-oils-hlp-32.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLP 22",
+      "image": "assets/product-items/industry-oils-hlp-22.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "HLP 10",
+      "image": "assets/product-items/industry-oils-hlp-10.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "CLP 460",
+      "image": "assets/product-items/industry-oils-clp-460.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "CLP 320",
+      "image": "assets/product-items/industry-oils-clp-320.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "CLP 200",
+      "image": "assets/product-items/industry-oils-clp-200.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "CLP 150",
+      "image": "assets/product-items/industry-oils-clp-150.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "CLP 100",
+      "image": "assets/product-items/industry-oils-clp-100.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "VDL 150 (VBL + VCL)",
+      "image": "assets/product-items/industry-oils-vdl-150-vbl-vcl.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "VDL 100 (VBL + VCL)",
+      "image": "assets/product-items/industry-oils-vdl-100-vbl-vcl.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "VDL 68 (VBL + VCL)",
+      "image": "assets/product-items/industry-oils-vdl-68-vbl-vcl.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "VDL 46 (VBL + VCL)",
+      "image": "assets/product-items/industry-oils-vdl-46-vbl-vcl.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "VDL 32 (VBL + VCL)",
+      "image": "assets/product-items/industry-oils-vdl-32-vbl-vcl.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "GT 68",
+      "image": "assets/product-items/industry-oils-gt-68.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "GT 46",
+      "image": "assets/product-items/industry-oils-gt-46.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "GT 32",
+      "image": "assets/product-items/industry-oils-gt-32.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    },
+    {
+      "name": "TR/TRI",
+      "image": "assets/product-items/industry-oils-tr-tri.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Schnell-Barrel.png"
+    }
+  ],
+  "motor-cycle-oils": [
+    {
+      "name": "500 Series SAE 15W-50",
+      "image": "assets/product-items/motor-cycle-oils-500-series-sae-15w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/500-Series-SAE-15W-50.png"
+    },
+    {
+      "name": "Syntholite SAE 15W-50",
+      "image": "assets/product-items/motor-cycle-oils-syntholite-sae-15w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Syntholite-SAE-15W-50-1.png"
+    },
+    {
+      "name": "Syntho Ultimate SAE 10W-50",
+      "image": "assets/product-items/motor-cycle-oils-syntho-ultimate-sae-10w-50.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Syntholite-SAE-10W-40.png"
+    },
+    {
+      "name": "Syntholite SAE 10W-40",
+      "image": "assets/product-items/motor-cycle-oils-syntholite-sae-10w-40.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Syntholite-SAE-15W-50.png"
+    },
+    {
+      "name": "Synthomax XTREME SAE 5W-60",
+      "image": "assets/product-items/motor-cycle-oils-synthomax-xtreme-sae-5w-60.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/11/Synthomax-XTREME-SAE-5W-60.png"
+    }
+  ],
+  "transmission-gear-oils": [
+    {
+      "name": "ZHM",
+      "image": "assets/product-items/transmission-gear-oils-zhm.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/ZHM.png"
+    },
+    {
+      "name": "CHF",
+      "image": "assets/product-items/transmission-gear-oils-chf.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/CHF.png"
+    },
+    {
+      "name": "ATF 9-SPEED",
+      "image": "assets/product-items/transmission-gear-oils-atf-9-speed.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/ATF-9-SPEED.png"
+    },
+    {
+      "name": "ATF 7-SPEED Blue Edition",
+      "image": "assets/product-items/transmission-gear-oils-atf-7-speed-blue-edition.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/ATF-7-SPEED-Blue-Edition.png"
+    },
+    {
+      "name": "ATF 7-SPEED",
+      "image": "assets/product-items/transmission-gear-oils-atf-7-speed.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/ATF-7-SPEED.png"
+    },
+    {
+      "name": "ATF 6-SPEED",
+      "image": "assets/product-items/transmission-gear-oils-atf-6-speed.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/ATF-6-SPEED.png"
+    },
+    {
+      "name": "CVT-ATF",
+      "image": "assets/product-items/transmission-gear-oils-cvt-atf.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/CVT-ATF.png"
+    },
+    {
+      "name": "ATF DSG II",
+      "image": "assets/product-items/transmission-gear-oils-atf-dsg-ii.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/ATF-DSG-II.png"
+    },
+    {
+      "name": "ATF ULTIMATE",
+      "image": "assets/product-items/transmission-gear-oils-atf-ultimate.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2024/10/ATF-ULTIMATE.png"
+    }
+  ],
+  "performance-3-in-1-system": [
+    {
+      "name": "Motor Treatment",
+      "image": "assets/product-items/performance-3-in-1-system-motor-treatment.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Motor-Treatment.png"
+    },
+    {
+      "name": "Injektor Fuel Treatment",
+      "image": "assets/product-items/performance-3-in-1-system-injektor-fuel-treatment.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Injektor-Fuel-Treatment.png"
+    },
+    {
+      "name": "Motor Flush",
+      "image": "assets/product-items/performance-3-in-1-system-motor-flush.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Motor-Flush.png"
+    }
+  ],
+  "performance-coolants": [
+    {
+      "name": "Longlife Coolant 439",
+      "image": "assets/product-items/performance-coolants-longlife-coolant-439.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Long-Life-Coolant-438.png"
+    },
+    {
+      "name": "Longlife Coolant 438",
+      "image": "assets/product-items/performance-coolants-longlife-coolant-438.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Long-Life-Coolant-438.png"
+    },
+    {
+      "name": "Longlife Coolant 437 PURPLE EDITION",
+      "image": "assets/product-items/performance-coolants-longlife-coolant-437-purple-edition.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Long-Life-Coolant-437.png"
+    },
+    {
+      "name": "Longlife Coolant 436 BLUE EDITION",
+      "image": "assets/product-items/performance-coolants-longlife-coolant-436-blue-edition.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Long-Life-Coolant-436.png"
+    },
+    {
+      "name": "Longlife Coolant 435",
+      "image": "assets/product-items/performance-coolants-longlife-coolant-435.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Long-Life-Coolant-435.png"
+    }
+  ],
+  "performance-brake-fluids": [
+    {
+      "name": "Brake Fluid Dot 4 LV",
+      "image": "assets/product-items/performance-brake-fluids-brake-fluid-dot-4-lv.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Brake-Fluid-Dot-4-LV.png"
+    },
+    {
+      "name": "Brake Fluid Racing Dot 4.1",
+      "image": "assets/product-items/performance-brake-fluids-brake-fluid-racing-dot-4-1.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Brake-Fluid-Racing-Dot-4.1.png"
+    },
+    {
+      "name": "Brake Fluid Racing Dot 4",
+      "image": "assets/product-items/performance-brake-fluids-brake-fluid-racing-dot-4.png",
+      "source": "https://www.schnell-germany.com/wp-content/uploads/2023/10/Brake-Fluid-Racing-Dot-4.png"
+    }
+  ]
+}
